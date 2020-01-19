@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Deezer F. Hardy</string>
+    <string name="playlist_author_format">By %s</string>
+    <string name="ws_error_playlist_list">Error while loading the list of playlist !</string>
+    <string name="ws_error_playlist">Error while loading tracks !</string>
+    <string name="actions_retry">Retry</string>
+</resources>

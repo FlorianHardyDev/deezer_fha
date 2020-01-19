@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="track_image_size">50dp</dimen>
+    <dimen name="track_image_radius">5dp</dimen>
+    <dimen name="track_content_horizontal_margin">16dp</dimen>
+    <dimen name="playlist_card_radius">5dp</dimen>
+    <dimen name="playlist_content_margin">16dp</dimen>
+    <dimen name="playlist_image_size">80dp</dimen>
+    <dimen name="playlist_image_radius">5dp</dimen>
+    <dimen name="list_horizontal_padding">5dp</dimen>
+    <dimen name="collapse_bar_height">260dp</dimen>
+    <dimen name="collapse_bar_text_bottom_margin">64dp</dimen>
+    <dimen name="collapse_bar_text_start_margin">16dp</dimen>
+    <dimen name="collapse_bar_text_padding">10dp</dimen>
+    <dimen name="collapse_bar_bottom_margin">60dp</dimen>
+    <dimen name="playlist_item_margin">6dp</dimen>
+</resources>
